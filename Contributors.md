@@ -997,6 +997,7 @@ Nishtha3512
 - [Pragat Pandya](https://githubcom/psp2103)
 - [Singam Bhargav Ram](https://github.com/SBhargav15)
 - [Je Hyun Kim](https://github.com/je-hyun)
+- [Zhen Yang](https://github.com/zhenyang9261)
 - [Soumick Pyne] (https://github.com/Soumick-Pyne)
 - [Jusitn Stauffer](https://github.com/justindstauffer)
 - [Roberson Lubin](https://github.com/rlubingsu)
